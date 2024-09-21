@@ -1,6 +1,3 @@
-# Steam好友状态追踪
-
-
 ## Steam好友列表
 
 | Avatar                                                                            | Name         | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
